@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tailwind/static/css/main.aa925d90.css",
-    "main.js": "/tailwind/static/js/main.58fc8be3.js",
+    "main.css": "/tailwind/static/css/main.73cba6a8.css",
+    "main.js": "/tailwind/static/js/main.ce585cb4.js",
     "static/media/cyber-bg.png": "/tailwind/static/media/cyber-bg.44527257ee32d74ae878.png",
     "index.html": "/tailwind/index.html",
-    "main.aa925d90.css.map": "/tailwind/static/css/main.aa925d90.css.map",
-    "main.58fc8be3.js.map": "/tailwind/static/js/main.58fc8be3.js.map"
+    "main.73cba6a8.css.map": "/tailwind/static/css/main.73cba6a8.css.map",
+    "main.ce585cb4.js.map": "/tailwind/static/js/main.ce585cb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa925d90.css",
-    "static/js/main.58fc8be3.js"
+    "static/css/main.73cba6a8.css",
+    "static/js/main.ce585cb4.js"
   ]
 }
